@@ -1,0 +1,8 @@
+librosa>=0.10.0
+numpy>=1.24
+matplotlib>=3.6
+pydub>=0.25
+mutagen>=1.45
+soundfile>=0.12
+audioread>=2.1.9
+pytest>=7.0
